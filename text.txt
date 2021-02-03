@@ -1,2 +1,4 @@
 conflicts branch
 master branch
+
+conflicts branch
